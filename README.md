@@ -1,34 +1,14 @@
-# NFT Preview Card - FrontEnd Mentor
+# Lógica de Programação
 
-This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
-
-[Access the website here.](https://nftpreview-frontendmentor.vercel.app/)
-<br>
-<br>
-[access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
-
-## Demonstração
-
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/235288053-9179feed-ce48-4712-96ce-f4a5fb2d3bfb.png)
-
-## Mais Informações
-
-It was built as proposed in the design, using:
-
-- HTML
-- CSS
-
-## Stack
-
-**Front-end:** HTML, CSS
+Aqui neste repositório estão os exercícios do curso de Lógica de Programação do Daniel Tapias Silveira - Serliv. 
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-# Hello, my name is Jhonnathan! 👋
+# Olá, meu nome é Jhonnathan! 👋
 
-<p>Access my networks!</p>
+<p>Acesse minhas redes!</p>
 
 [![github](https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonnathandc)
 [![github](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/jhonnathan-cora-6427661b0/)
